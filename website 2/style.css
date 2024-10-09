@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    background-position: center;
+}
